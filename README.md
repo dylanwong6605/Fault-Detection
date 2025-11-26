@@ -24,4 +24,4 @@ The **UR3 CobotOps dataset** consists of sensor data collected from a UR3 roboti
 - Time-series operational signals
 
 > *Dataset Source:* CobotOps UR3 Dataset  
-([Provide link here if publicly available](https://archive.ics.uci.edu/dataset/963/ur3+cobotops))
+([LLink](https://archive.ics.uci.edu/dataset/963/ur3+cobotops))
